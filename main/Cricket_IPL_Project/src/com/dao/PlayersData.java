@@ -20,6 +20,11 @@ package com.dao;
 	        cskplayers.add(new Player("Dwaine Pretorius", "csk", 30, 200, 14, "All-rounder"));
 	        cskplayers.add(new Player("Simarjeet Singh", "csk", 5, 10, 51, "Bowler"));
 	        return cskplayers;
+	        
+	        
+	        
+	        
+	        
 	    }
 
 	    public ArrayList<Player> miTeamData() {
